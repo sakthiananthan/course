@@ -1,2 +1,2 @@
 # course
-This is for the course plan
+This is for the course plan Readme
