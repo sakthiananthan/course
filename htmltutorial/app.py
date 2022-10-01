@@ -1,4 +1,4 @@
-from database import Database
+from course.htmltutorial.database import Database
 from flask import Flask, render_template, request, jsonify
 import json
 

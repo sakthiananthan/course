@@ -27,7 +27,7 @@
 # INSERT INTO CARMODELS (MODEL_ID, BRAND_ID, CAR_MODEL) VALUES (20, 5, 'Elantra');
 # INSERT INTO CARMODELS (MODEL_ID, BRAND_ID, CAR_MODEL) VALUES (21, 5, 'Tucson');
 
-from database import Database
+from course.htmltutorial.database import Database
 
 db = Database('cars.db')
 
